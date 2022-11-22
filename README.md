@@ -1,6 +1,8 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+A regular expression is a pattern of characters.
+The pattern is used to do pattern-matching "search-and-replace" functions on text.
+In JavaScript, a RegExp Object is a pattern with Properties and Methods.
 
 ## Summary
 
